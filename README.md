@@ -1,6 +1,10 @@
 # Project Overview
 This project is a sample for use Lottie library.
 
+# development environment
+<img width="686" alt="127751156-0638bd97-e532-43e9-be12-e758a7118141" src="https://user-images.githubusercontent.com/16476224/128231979-4bf5e7f9-db6f-41d6-805d-857142fd8494.png">
+
+
 # Screenshot
 <img src="./LottieKotlinSample/capture.gif" width=320 />
 
