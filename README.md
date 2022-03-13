@@ -19,6 +19,3 @@ https://github.com/LeoAndo/android-lottie-samples/tree/main/LottieJavaSample
 
 # For Kotlin code
 https://github.com/LeoAndo/android-lottie-samples/tree/main/LottieKotlinSample
-
-# live coding
-https://www.youtube.com/watch?v=dItIXpUPaMU&feature=youtu.be
