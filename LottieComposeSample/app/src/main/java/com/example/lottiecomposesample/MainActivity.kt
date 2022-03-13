@@ -43,9 +43,9 @@ private fun Greeting() {
         speed = 0.2f,
         isPlaying = isPlaying,
         restartOnPlay = restartOnPlay,
-        cancellationBehavior = LottieCancellationBehavior.Immediately,
+        // cancellationBehavior = LottieCancellationBehavior.Immediately, // default
         iterations = LottieConstants.IterateForever,
-        clipSpec = LottieClipSpec.Progress(0f, 1f),
+        // clipSpec = LottieClipSpec.Progress(0f, 1f), // default
     )
 
     Column(
