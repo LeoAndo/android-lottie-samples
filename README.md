@@ -2,7 +2,7 @@
 This project is a sample for use Lottie library.
 
 # development environment
-<img width="686" alt="127751156-0638bd97-e532-43e9-be12-e758a7118141" src="https://user-images.githubusercontent.com/16476224/128231979-4bf5e7f9-db6f-41d6-805d-857142fd8494.png">
+<img width="501" alt="スクリーンショット 2022-03-13 16 14 56" src="https://user-images.githubusercontent.com/16476224/158049457-7164bf04-9ff3-4a5b-beeb-47b953228dbc.png">
 
 
 # Screenshot Pixel 4 OS8
@@ -25,3 +25,6 @@ https://github.com/LeoAndo/android-lottie-samples/tree/main/LottieKotlinSample
 
 # For Java code
 https://github.com/LeoAndo/android-lottie-samples/tree/main/LottieJavaSample
+
+# development memo
+https://github.com/LeoAndo/android-lottie-samples/issues
